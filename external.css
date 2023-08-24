@@ -1,0 +1,26 @@
+body{
+    background-color:antiquewhite;  
+}
+#head{
+    border: solid;
+    background-color: blue;
+    color: white;
+    border-color: black;
+    text-align: center;
+}
+#rad1{
+    cursor: pointer;
+}
+#rad2{
+    cursor: pointer;
+}
+#but{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+form{
+    display: block;
+    margin-left: 500px;
+}
